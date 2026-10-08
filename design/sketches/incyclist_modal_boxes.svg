@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="900" viewBox="0 0 1560 900"><title>Incyclist — modal colour collection</title><desc>Six editable vector modal dialogs. The space between dialogs is fully transparent.</desc><defs>
+<linearGradient id="purple" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#7628ea"/><stop offset="1" stop-color="#390c99"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#087be9"/><stop offset="1" stop-color="#003eae"/></linearGradient>
+<linearGradient id="magenta" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#cf19a8"/><stop offset="1" stop-color="#830c7a"/></linearGradient>
+<linearGradient id="teal" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#009fc2"/><stop offset="1" stop-color="#006582"/></linearGradient>
+<linearGradient id="orange" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#ff831b"/><stop offset="1" stop-color="#d84a00"/></linearGradient>
+<linearGradient id="green" x1="0" y1="0" x2="0.15" y2="1"><stop stop-color="#38a76c"/><stop offset="1" stop-color="#126443"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".2"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g id="modal-purple" transform="translate(30 30)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#purple)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-purple" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#eee8ff" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#390c99" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-purple"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-purple"><rect x="325" y="323" width="130" height="43" rx="10" fill="#eee8ff"/><text x="390" y="350" fill="#390c99" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+<g id="modal-blue" transform="translate(540 30)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#blue)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-blue" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#e5efff" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#003eae" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-blue"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-blue"><rect x="325" y="323" width="130" height="43" rx="10" fill="#e5efff"/><text x="390" y="350" fill="#003eae" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+<g id="modal-magenta" transform="translate(1050 30)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#magenta)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-magenta" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#fce5f6" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#830c7a" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-magenta"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-magenta"><rect x="325" y="323" width="130" height="43" rx="10" fill="#fce5f6"/><text x="390" y="350" fill="#830c7a" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+<g id="modal-teal" transform="translate(30 480)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#teal)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-teal" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#def6fa" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#006582" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-teal"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-teal"><rect x="325" y="323" width="130" height="43" rx="10" fill="#def6fa"/><text x="390" y="350" fill="#006582" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+<g id="modal-orange" transform="translate(540 480)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#orange)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-orange" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#fff0e2" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#d84a00" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-orange"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-orange"><rect x="325" y="323" width="130" height="43" rx="10" fill="#fff0e2"/><text x="390" y="350" fill="#d84a00" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+<g id="modal-green" transform="translate(1050 480)" font-family="Inter, Arial, sans-serif">
+ <rect x="0" y="0" width="480" height="390" rx="22" fill="url(#green)"/>
+ <rect x="1" y="1" width="478" height="388" rx="21" fill="url(#sheen)" stroke="#fff" stroke-opacity=".5"/>
+ <path d="M0 92H480" stroke="#fff" stroke-opacity=".22"/>
+ <rect x="24" y="24" width="44" height="44" rx="13" fill="#fff" fill-opacity=".16"/>
+ <g transform="translate(34 33)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 23V3L11 0L20 4V23L11 19Z M11 0V19"/></g>
+ <text x="83" y="43" fill="#fff" font-size="21" font-weight="700">Route settings</text>
+ <text x="83" y="65" fill="#fff" fill-opacity=".78" font-size="13">Prepare your next ride</text>
+ <g id="close-green" stroke="#fff" stroke-width="2" stroke-linecap="round"><path d="M442 36L454 48M454 36L442 48"/></g>
+ <text x="26" y="126" fill="#fff" font-size="14" font-weight="600">Route name</text>
+ <rect x="25" y="138" width="430" height="46" rx="9" fill="#e5f5eb" stroke="#fff" stroke-opacity=".7"/>
+ <text x="40" y="167" fill="#126443" font-size="16">Alpine adventure</text>
+ <text x="26" y="217" fill="#fff" font-size="14" font-weight="600">Difficulty</text>
+ <rect x="25" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="40" y="257" fill="#fff" font-size="15">Moderate</text>
+ <path d="M205 248L211 254L217 248" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+ <text x="250" y="217" fill="#fff" font-size="14" font-weight="600">Distance</text>
+ <rect x="249" y="229" width="206" height="45" rx="9" fill="#fff" fill-opacity=".14" stroke="#fff" stroke-opacity=".45"/>
+ <text x="264" y="257" fill="#fff" font-size="15">40.2 km</text>
+ <path d="M25 303H455" stroke="#fff" stroke-opacity=".2"/>
+ <g id="cancel-green"><rect x="202" y="323" width="110" height="43" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".5"/><text x="257" y="350" fill="#fff" font-size="15" text-anchor="middle">Cancel</text></g>
+ <g id="confirm-green"><rect x="325" y="323" width="130" height="43" rx="10" fill="#e5f5eb"/><text x="390" y="350" fill="#126443" font-weight="700" font-size="15" text-anchor="middle">Save route</text></g>
+ </g>
+</svg>
