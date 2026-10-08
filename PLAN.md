@@ -70,7 +70,7 @@ Package names inside the workspace (private, not published to npm):
 |---|------|-----------------|
 | 0.1 | Product name and name check | **Done:** "LH Cycle Training" |
 | 0.2 | Choose the licence and add `LICENSE` to the repository | **Done: MIT** |
-| 0.3 | Ask the Incyclist author to confirm MIT (and add LICENSE files) for `incyclist/desktop` **and** `gd-eventlog` – both only declare MIT in `package.json`. Draft ready: `docs/licensing/author-license-request.md` | Written confirmation stored in `docs/licensing/` |
+| 0.3 | Ask the Incyclist author to confirm MIT (and add LICENSE files) for `incyclist/desktop` **and** `gd-eventlog` – both only declare MIT in `package.json`. **Sent 2026-10-08:** https://github.com/incyclist/desktop/issues/222 – answer pending | Written confirmation stored in `docs/licensing/` |
 | 0.4 | Configure the repository: issue labels, project board, branch protection on `main`, topics | Configured repo |
 | 0.5 | Website and update feed: GitHub Pages + GitHub Releases | URLs |
 | 0.6 | Accounts: Apple Developer Program (macOS signing + notarisation), Windows code-signing certificate, Strava API application, optional Komoot / intervals.icu API access. Credentials only in a password manager / CI secrets, **never** in git | Accounts |

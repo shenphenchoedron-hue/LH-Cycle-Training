@@ -10,6 +10,11 @@ repositories contain **no LICENSE file** (checked 2026-10-08):
 
 The other imported repositories (`web-ui`, `services`, `devices`) have proper MIT LICENSE files.
 
+## Status
+
+- **Sent 2026-10-08** as GitHub issue https://github.com/incyclist/desktop/issues/222 (covers both `desktop` and `gd-eventlog`).
+- Answer: **pending**. When it arrives, save it as `author-license-confirmation.md` in this folder and complete sections 1.4 and 1.5 in `THIRD_PARTY_NOTICES.md`.
+
 ## How to send it
 
 Send it as a GitHub issue on `incyclist/desktop` (public and traceable), or by e-mail to info@incyclist.com.
